@@ -1,0 +1,225 @@
+:root {
+    --azul-bebe: #8abdd8;
+    --laranja-bebe: rgb(255, 123, 0);
+    --laranja-claro: rgb(255, 166, 0);
+    --verde: #25d366;
+    --branco: #FFF;
+    --cinza: #999;
+    --roxinho: #DDA0DD;
+    --lavanda: #E6E6FA;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    @media (max-width: 1080px) {
+        font-size: 93.75%;
+    }
+
+    @media (max-width: 720px) {
+        font-size: 87.5%;
+    }
+}
+
+body {
+    background: var(--azul-bebe);
+    -webkit-font-smoothing: antialiased;
+}
+
+.sessao1 .sessao2 {
+    background: var(--azul-bebe);
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.navegador1 li a {
+    color: var(--branco);
+
+}
+
+.sessao2 li a {
+    color: #000;
+
+}
+
+/* .sessao3, .sessao2, .sessao4{
+    margin-right: 3%;
+    margin-left: 3%;
+} */
+li a:hover {
+    color: var(--laranja-bebe);
+
+}
+
+.float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: var(--verde);
+    color: var(--branco);
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px var(--cinza);
+    z-index: 100;
+}
+
+.my-float {
+    margin-top: 16px;
+}
+
+
+.sessao1 {
+    height: 100dvh;
+    width: 100%;
+    background-size: cover;
+    background-image: url(./assets/iamgens/capa.jpg);
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
+
+.sessao1 {
+    font-family: sans-serif;
+    color: var(--branco);
+    ;
+}
+
+.slogan2 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 130%;
+}
+
+.slogan {
+    margin-top: 5%;
+    animation: myAnim 0.5s ease 0s 1 normal forwards;
+}
+
+@keyframes myAnim {
+    0% {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.orangeButton {
+    background: var(--laranja-bebe);
+    color: var(--branco);
+    ;
+    width: 185px;
+    font-weight: bold;
+    transition: all ease 0.2s;
+    border-radius: 14px;
+}
+
+
+.orangeButton:hover {
+    background: var(--laranja-claro);
+    transition: all ease 0.2s;
+    color: var(--branco);
+}
+
+.orangeButtonLogin {
+    background: var(--laranja-bebe);
+    color: var(--branco);
+    ;
+    width: 100px;
+    font-weight: bold;
+    transition: all ease 0.2s;
+    margin-left: 20px;
+}
+
+.orangeButtonLogin:hover {
+    background: var(--laranja-claro);
+    transition: all ease 0.2s;
+    color: var(--branco);
+}
+
+
+@media (max-width: 767px) {
+    .orangeButtonLogin {
+        background: var(--laranja-bebe);
+        color: var(--branco);
+        ;
+        width: 100%;
+        font-weight: bold;
+        transition: all ease 0.2s;
+        margin-left: 0px;
+    }
+
+    .nav-link {
+        text-align: center;
+    }
+}
+
+.cartoes1 {
+    background-color: #FFEFD5;
+
+}
+
+.cartoes2 {
+    background-color: var(--azul-bebe);
+}
+
+.cartoes3 {
+    background-color: var(--lavanda);
+}
+
+.containerProdutosFilter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.productsItens {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.containerFiltrosOptions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+}
+
+.itemFill:hover {
+    color: var(--laranja-bebe);
+    cursor: pointer;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.card-title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.card-img-top {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Use justify-content to center horizontally */
+}
+
+.img-top {
+    width: 70%;
+}
