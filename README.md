@@ -14,19 +14,14 @@ Meu foco é refletir sobre quais foram meus aprendizados durante essa prática, 
 
 Fique a vontade para compartilhar feedbacks e trocar aprendizados 🤍
 
-## Projetos 🛠️
+## Projeto 🛠️
 ![image](https://github.com/DannyCMMarques/dannysmoveis/assets/147952313/4f2bd3eb-930a-47e9-8d20-6d9b9ea115c7)
 
 -Versão Mobile
-#### O que eu pratiquei:
-Através desse projeto foi possível revisar os principais conceitos de html,css e bootstrap.
-*   A prática de mobile first, treinando a forma responsiva.
-* Animações no CSS.
-*  A utilização de colunas.
 
-  ### Demo
+  ### Demonstração 📱
 * Acesse esse link para visualizar o site:
 
-https://dannycmmarques.github.io/dannysmoveis/
+🌠https://dannycmmarques.github.io/dannysmoveis/🌠
 
   
