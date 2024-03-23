@@ -1,27 +1,40 @@
 
 
 # 💻 Projetos-HTML-CSS- ***Danny's Móveis***💻
-Aprendendo através da realização de pequenos projetos de HTML e CSS
+Aprendendo através da realização de projetos de HTML e CSS
 
 ***"Não desprezem os pequenos começos"***
 
 
  ## Objetivo
 
-Já dizia o velho provérbio ✨A prática leva a perfeição✨, pensando nisso resolvi começar a compartilhar alguns projetos que desenvolvi nessa jornada rumo a ser Desenvolvedora Front-end  🚀
+O principal objetivo deste projeto é praticar habilidades em HTML e CSS, compreendendo os fundamentos dessas linguagens e aplicando-os em um contexto prático. Além disso, busco refletir sobre meu aprendizado, identificando áreas de melhoria e pensando em como aplicar esses conhecimentos em projetos futuros. 🎯
 
-Meu foco é refletir sobre quais foram meus aprendizados durante essa prática, quais pontos posso melhorar e a partir disso, como aplicar o que foi aprendido em um cenário real, desenvolvendo projetos que façam a diferença. 🎯
 
-Fique a vontade para compartilhar feedbacks e trocar aprendizados 🤍
 
 ## Projeto 🛠️
 ![image](https://github.com/DannyCMMarques/dannysmoveis/assets/147952313/4f2bd3eb-930a-47e9-8d20-6d9b9ea115c7)
 
--Versão Mobile
+Versão Mobile
+O projeto foi desenvolvido com foco na experiência do usuário em dispositivos móveis, garantindo que o site seja responsivo e acessível em diferentes tamanhos de tela.
+
 
   ### Demonstração 📱
 * Acesse esse link para visualizar o site:
 🌠 https://dannycmmarques.github.io/dannysmoveis/ 🌠
+
+## Feedbacks e Aprendizados
+Sinta-se à vontade para compartilhar feedbacks, sugestões de melhorias e trocar aprendizados. O processo de desenvolvimento é contínuo, e estou sempre em busca de aprimoramento.
+
+🤍 ***Obrigada pela visita e pela oportunidade de compartilhar este projeto!*** 🤍
+
+
+
+
+
+
+
+
 
 
 
